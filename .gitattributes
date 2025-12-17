@@ -1,0 +1,19 @@
+# Normalize line endings
+* text=auto
+
+# Godot-specific files
+*.tscn linguist-language=Godot
+*.gd linguist-language=GDScript
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.ico binary
+*.gif binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.ttf binary
+*.otf binary
